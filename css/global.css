@@ -189,6 +189,12 @@ p {
   color: #eee;
 }
 
+/* team */
+div.box.shellbox > img {
+	width: 100%;
+}
+
+
 /* footer */
 
 footer {
